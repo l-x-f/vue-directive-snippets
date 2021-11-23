@@ -1,0 +1,152 @@
+{
+  "v-text": {
+    "prefix": "vt",
+    "body": ["v-text=\"$1\""],
+    "description": "v-text=\"\" (official)"
+  },
+  "v-html": {
+    "prefix": "vh",
+    "body": ["v-html=\"$1\""],
+    "description": "v-html=\"\" (official)"
+  },
+  "v-show": {
+    "prefix": "vsh",
+    "body": ["v-show=\"$1\""],
+    "description": "v-show=\"\" (official)"
+  },
+  "v-if": {
+    "prefix": "vi",
+    "body": ["v-if=\"$1\""],
+    "description": "v-if=\"\" (official)"
+  },
+  "v-else": {
+    "prefix": "ve",
+    "body": ["v-else=\"$1\""],
+    "description": "v-else=\"\" (official)"
+  },
+  "v-else-if": {
+    "prefix": "vei",
+    "body": ["v-else-if=\"$1\""],
+    "description": "v-else-if=\"\" (official)"
+  },
+  "v-for": {
+    "prefix": "vf",
+    "body": ["v-for=\"item in list$1\"  :key=\"item.id\""],
+    "description": "v-for=\"\" (official)"
+  },
+  "v-on": {
+    "prefix": "von",
+    "body": ["v-on=\"$1\""],
+    "description": "v-on=\"\" (official)"
+  },
+  "v-bind": {
+    "prefix": "vb",
+    "body": ["v-bind=\"$1\""],
+    "description": "v-bind=\"\" (official)"
+  },
+  "v-model": {
+    "prefix": "vm",
+    "body": ["v-model=\"$1\""],
+    "description": "v-model=\"\" (official)"
+  },
+  "v-slot": {
+    "prefix": "vs",
+    "body": ["v-permission=\"$1\""],
+    "description": "v-permission=\"\" (official)"
+  },
+  "v-pre": {
+    "prefix": "vpre",
+    "body": ["v-pre=\"$1\""],
+    "description": "v-pre=\"\" (official)"
+  },
+  "v-cloak": {
+    "prefix": "vcloak",
+    "body": ["v-cloak=\"$1\""],
+    "description": "v-cloak=\"\" (official)"
+  },
+  "v-once": {
+    "prefix": "vonce",
+    "body": ["v-once=\"$1\""],
+    "description": "v-once=\"\" (official)"
+  },
+  "v-memo": {
+    "prefix": "vmemo",
+    "body": ["v-memo=\"$1\""],
+    "description": "v-memo=\"\" (official)"
+  },
+  "v-is": {
+    "prefix": "vis",
+    "body": ["v-is=\"$1\""],
+    "description": "v-is=\"\" (official)"
+  },
+  "v-permission": {
+    "prefix": "vper",
+    "body": ["v-permission=\"$1\""],
+    "description": "v-permission=\"\" (custom)"
+  },
+  "v-copy": {
+    "prefix": "vco",
+    "body": ["v-copy=\"$1\""],
+    "description": "v-copy=\"\" (custom)"
+  },
+  "v-longpress": {
+    "prefix": "vlon",
+    "body": ["v-longpress=\"$1\""],
+    "description": "v-longpress=\"\" (custom)"
+  },
+  "v-debounce": {
+    "prefix": "vde",
+    "body": ["v-debounce=\"$1\""],
+    "description": "v-debounce=\"\" (custom)"
+  },
+  "v-emoji": {
+    "prefix": "vem",
+    "body": ["v-emoji=\"$1\""],
+    "description": "v-emoji=\"\" (custom)"
+  },
+  "v-Lazy": {
+    "prefix": "vla",
+    "body": ["v-Lazy=\"$1\""],
+    "description": "v-Lazy=\"\" (custom)"
+  },
+  "v-draggable": {
+    "prefix": "vdr",
+    "body": ["v-draggable=\"$1\""],
+    "description": "v-draggable=\"\" (custom)"
+  },
+  "v-drag": {
+    "prefix": "vdr",
+    "body": ["v-drag=\"$1\""],
+    "description": "v-drag=\"\" (custom)"
+  },
+  "v-screenfull": {
+    "prefix": "vsc",
+    "body": ["v-screenfull=\"$1\""],
+    "description": "v-screenfull=\"\" (custom)"
+  },
+  "v-ellipsis": {
+    "prefix": "vell",
+    "body": ["v-ellipsis=\"$1\""],
+    "description": "v-ellipsis=\"\" (custom)"
+  },
+  "v-backtop": {
+    "prefix": "vbac",
+    "body": ["v-backtop=\"$1\""],
+    "description": "v-backtop=\"\" (custom)"
+  },
+  "v-empty": {
+    "prefix": "vem",
+    "body": ["v-empty=\"$1\""],
+    "description": "v-empty=\"\" (custom)"
+  },
+  "v-badge": {
+    "prefix": "vbad",
+    "body": ["v-empty=\"$1\""],
+    "description": "v-empty=\"\" (custom)"
+  },
+  "v-resize": {
+    "prefix": "vre",
+    "body": ["v-resize=\"$1\""],
+    "description": "v-resize=\"\" (custom)"
+  }
+}
