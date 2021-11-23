@@ -1,6 +1,6 @@
 {
     "name": "vue-directive-snippets",
-    "displayName": " vue-directive-snippets",
+    "displayName": "vue-directive-snippets",
     "description": "vue directive snippets",
     "version": "0.0.1",
     "engines": {
@@ -16,5 +16,6 @@
                 "path": "./snippets/snippets.code-snippets"
             }
         ]
-    }
+    },
+    "publisher": "xiaofei"
 }

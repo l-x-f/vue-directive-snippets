@@ -43,6 +43,8 @@ Users appreciate release notes as you update your extension.
 
 添加初始指令支持
 
-## 博客
+## [xiaofei](https://www.lixiaofei.site/)
 
-- [xiaofei](https://www.lixiaofei.site/)
+## License
+
+MIT
