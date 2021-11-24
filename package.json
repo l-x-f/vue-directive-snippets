@@ -2,7 +2,12 @@
     "name": "vue-directive-snippets",
     "displayName": "vue-directive-snippets",
     "description": "vue directive snippets",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "license": "MIT",
+    "icon": "logo.png",
+    "scripts": {
+        "build": "vsce package"
+    },
     "repository": {
         "type": "git",
         "url": " https://gitee.com/l-x-f/vue-directive-snippets.git"
