@@ -4,6 +4,8 @@ vue2 vue3 指令提示
 
 ## 功能
 
+### 官方指令
+
 ```text
   vt: 'v-text= '
   vh: 'v-html= '
@@ -21,6 +23,11 @@ vue2 vue3 指令提示
   vonce: 'v-once= '
   vmemo: 'v-memo= '
   vis: 'v-is= '
+```
+
+### 自定义指令
+
+```text
   vper: 'v-permission= '
   vco: 'v-copy= '
   vlon: 'v-longpress= '
@@ -37,7 +44,9 @@ vue2 vue3 指令提示
 
 ## 版本说明
 
-Users appreciate release notes as you update your extension.
+### 0.0.2
+
+修改文档
 
 ### 0.0.1
 
