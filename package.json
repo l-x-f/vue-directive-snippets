@@ -3,6 +3,10 @@
     "displayName": "vue-directive-snippets",
     "description": "vue directive snippets",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": " https://gitee.com/l-x-f/vue-directive-snippets.git"
+    },
     "engines": {
         "vscode": "^1.62.0"
     },
