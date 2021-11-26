@@ -2,38 +2,38 @@
 
 ## [0.0.3]
 
-fix:v-slot
+fix:修改指令
 
 ```text
-  vt: 'v-text= ',
-  vh: 'v-html= ',
-  vsh: 'v-show= ',
-  vi: 'v-if= ',
-  ve: 'v-else= ',
-  vei: 'v-else-if= ',
-  vf: 'v-for="item in list$1"  :key="item.id"',
-  vo: 'v-on= ',
-  vb: 'v-bind= ',
-  vm: 'v-model= ',
-  vs: 'v-slot= ',
-  vpre: 'v-pre= ',
-  vc: 'v-cloak= ',
-  vonce: 'v-once= ',
-  vme: 'v-memo= ',
-  vis: 'v-is= ',
-  vpermission: 'v-permission= ',
-  vcopy: 'v-copy= ',
-  vlongpress: 'v-longpress= ',
-  vdebounce: 'v-debounce= ',
-  vemoji: 'v-emoji= ',
-  vLazy: 'v-Lazy= ',
-  vdraggable: 'v-draggable= ',
-  vdrag: 'v-drag= ',
-  vscreenfull: 'v-screenfull= ',
-  vellipsis: 'v-ellipsis= ',
-  vbacktop: 'v-backtop= ',
-  vempty: 'v-empty= ',
-  vbad: 'v-empty= ',
+  vt: 'v-text= '
+  vh: 'v-html= '
+  vsh: 'v-show= '
+  vi: 'v-if= '
+  ve: 'v-else= '
+  vei: 'v-else-if= '
+  vf: 'v-for="item in list$1"  :key="item.id"'
+  vo: 'v-on= '
+  vb: 'v-bind= '
+  vm: 'v-model= '
+  vs: 'v-slot= '
+  vpre: 'v-pre= '
+  vc: 'v-cloak= '
+  vonce: 'v-once= '
+  vme: 'v-memo= '
+  vis: 'v-is= '
+  vpermission: 'v-permission= '
+  vcopy: 'v-copy= '
+  vlongpress: 'v-longpress= '
+  vdebounce: 'v-debounce= '
+  vemoji: 'v-emoji= '
+  vlazy: 'v-lazy= '
+  vdraggable: 'v-draggable= '
+  vdrag: 'v-drag= '
+  vscreenfull: 'v-screenfull= '
+  vellipsis: 'v-ellipsis= '
+  vbacktop: 'v-backtop= '
+  vempty: 'v-empty= '
+  vbadge: 'v-badge= '
   vresize: 'v-resize= '
 ```
 

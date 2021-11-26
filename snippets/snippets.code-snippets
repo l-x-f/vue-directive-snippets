@@ -104,10 +104,10 @@
     "body": ["v-emoji=\"$1\""],
     "description": "v-emoji=\"\" (custom)"
   },
-  "v-Lazy": {
-    "prefix": "vLazy",
-    "body": ["v-Lazy=\"$1\""],
-    "description": "v-Lazy=\"\" (custom)"
+  "v-lazy": {
+    "prefix": "vlazy",
+    "body": ["v-lazy=\"$1\""],
+    "description": "v-lazy=\"\" (custom)"
   },
   "v-draggable": {
     "prefix": "vdraggable",
@@ -140,9 +140,9 @@
     "description": "v-empty=\"\" (custom)"
   },
   "v-badge": {
-    "prefix": "vbad",
-    "body": ["v-empty=\"$1\""],
-    "description": "v-empty=\"\" (custom)"
+    "prefix": "vbadge",
+    "body": ["v-badge=\"$1\""],
+    "description": "v-badge=\"\" (custom)"
   },
   "v-resize": {
     "prefix": "vresize",

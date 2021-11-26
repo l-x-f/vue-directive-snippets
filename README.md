@@ -23,7 +23,6 @@ vue 指令提示(支持 vue2/vue3)
   vonce: 'v-once= '
   vme: 'v-memo= '
   vis: 'v-is= '
-
 ```
 
 ### 自定义指令
@@ -34,14 +33,14 @@ vue 指令提示(支持 vue2/vue3)
   vlongpress: 'v-longpress= '
   vdebounce: 'v-debounce= '
   vemoji: 'v-emoji= '
-  vLazy: 'v-Lazy= '
+  vlazy: 'v-lazy= '
   vdraggable: 'v-draggable= '
   vdrag: 'v-drag= '
   vscreenfull: 'v-screenfull= '
   vellipsis: 'v-ellipsis= '
   vbacktop: 'v-backtop= '
   vempty: 'v-empty= '
-  vbad: 'v-empty= '
+  vbadge: 'v-badge= '
   vresize: 'v-resize= '
 ```
 
@@ -49,7 +48,7 @@ vue 指令提示(支持 vue2/vue3)
 
 ### [0.0.3]
 
-fix:v-slot
+fix:修改指令
 
 ### 0.0.2
 
