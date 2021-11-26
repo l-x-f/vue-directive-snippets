@@ -2,7 +2,14 @@
     "name": "vue-directive-snippets",
     "displayName": "vue-directive-snippets",
     "description": "vue directive snippets",
-    "version": "0.0.2",
+    "keywords": [
+        "vue",
+        "vue2",
+        "vue3",
+        "directive",
+        "vue-directive-snippets"
+    ],
+    "version": "0.0.3",
     "license": "MIT",
     "icon": "logo.png",
     "scripts": {

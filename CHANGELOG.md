@@ -1,5 +1,42 @@
 # 各版本更新说明
 
+## [0.0.3]
+
+fix:v-slot
+
+```text
+  vt: 'v-text= ',
+  vh: 'v-html= ',
+  vsh: 'v-show= ',
+  vi: 'v-if= ',
+  ve: 'v-else= ',
+  vei: 'v-else-if= ',
+  vf: 'v-for="item in list$1"  :key="item.id"',
+  vo: 'v-on= ',
+  vb: 'v-bind= ',
+  vm: 'v-model= ',
+  vs: 'v-slot= ',
+  vpre: 'v-pre= ',
+  vc: 'v-cloak= ',
+  vonce: 'v-once= ',
+  vme: 'v-memo= ',
+  vis: 'v-is= ',
+  vpermission: 'v-permission= ',
+  vcopy: 'v-copy= ',
+  vlongpress: 'v-longpress= ',
+  vdebounce: 'v-debounce= ',
+  vemoji: 'v-emoji= ',
+  vLazy: 'v-Lazy= ',
+  vdraggable: 'v-draggable= ',
+  vdrag: 'v-drag= ',
+  vscreenfull: 'v-screenfull= ',
+  vellipsis: 'v-ellipsis= ',
+  vbacktop: 'v-backtop= ',
+  vempty: 'v-empty= ',
+  vbad: 'v-empty= ',
+  vresize: 'v-resize= '
+```
+
 ## [0.0.2]
 
 修改文档
@@ -19,7 +56,7 @@
   von: 'v-on= '
   vb: 'v-bind= '
   vm: 'v-model= '
-  vs: 'v-permission= '
+  vs: 'v-slot= '
   vpre: 'v-pre= '
   vcloak: 'v-cloak= '
   vonce: 'v-once= '

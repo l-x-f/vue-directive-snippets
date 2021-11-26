@@ -35,7 +35,7 @@
     "description": "v-for=\"\" (official)"
   },
   "v-on": {
-    "prefix": "von",
+    "prefix": "vo",
     "body": ["v-on=\"$1\""],
     "description": "v-on=\"\" (official)"
   },
@@ -51,8 +51,8 @@
   },
   "v-slot": {
     "prefix": "vs",
-    "body": ["v-permission=\"$1\""],
-    "description": "v-permission=\"\" (official)"
+    "body": ["v-slot=\"$1\""],
+    "description": "v-slot=\"\" (official)"
   },
   "v-pre": {
     "prefix": "vpre",
@@ -60,7 +60,7 @@
     "description": "v-pre=\"\" (official)"
   },
   "v-cloak": {
-    "prefix": "vcloak",
+    "prefix": "vc",
     "body": ["v-cloak=\"$1\""],
     "description": "v-cloak=\"\" (official)"
   },
@@ -70,7 +70,7 @@
     "description": "v-once=\"\" (official)"
   },
   "v-memo": {
-    "prefix": "vmemo",
+    "prefix": "vme",
     "body": ["v-memo=\"$1\""],
     "description": "v-memo=\"\" (official)"
   },
@@ -80,62 +80,62 @@
     "description": "v-is=\"\" (official)"
   },
   "v-permission": {
-    "prefix": "vper",
+    "prefix": "vpermission",
     "body": ["v-permission=\"$1\""],
     "description": "v-permission=\"\" (custom)"
   },
   "v-copy": {
-    "prefix": "vco",
+    "prefix": "vcopy",
     "body": ["v-copy=\"$1\""],
     "description": "v-copy=\"\" (custom)"
   },
   "v-longpress": {
-    "prefix": "vlon",
+    "prefix": "vlongpress",
     "body": ["v-longpress=\"$1\""],
     "description": "v-longpress=\"\" (custom)"
   },
   "v-debounce": {
-    "prefix": "vde",
+    "prefix": "vdebounce",
     "body": ["v-debounce=\"$1\""],
     "description": "v-debounce=\"\" (custom)"
   },
   "v-emoji": {
-    "prefix": "vem",
+    "prefix": "vemoji",
     "body": ["v-emoji=\"$1\""],
     "description": "v-emoji=\"\" (custom)"
   },
   "v-Lazy": {
-    "prefix": "vla",
+    "prefix": "vLazy",
     "body": ["v-Lazy=\"$1\""],
     "description": "v-Lazy=\"\" (custom)"
   },
   "v-draggable": {
-    "prefix": "vdr",
+    "prefix": "vdraggable",
     "body": ["v-draggable=\"$1\""],
     "description": "v-draggable=\"\" (custom)"
   },
   "v-drag": {
-    "prefix": "vdr",
+    "prefix": "vdrag",
     "body": ["v-drag=\"$1\""],
     "description": "v-drag=\"\" (custom)"
   },
   "v-screenfull": {
-    "prefix": "vsc",
+    "prefix": "vscreenfull",
     "body": ["v-screenfull=\"$1\""],
     "description": "v-screenfull=\"\" (custom)"
   },
   "v-ellipsis": {
-    "prefix": "vell",
+    "prefix": "vellipsis",
     "body": ["v-ellipsis=\"$1\""],
     "description": "v-ellipsis=\"\" (custom)"
   },
   "v-backtop": {
-    "prefix": "vbac",
+    "prefix": "vbacktop",
     "body": ["v-backtop=\"$1\""],
     "description": "v-backtop=\"\" (custom)"
   },
   "v-empty": {
-    "prefix": "vem",
+    "prefix": "vempty",
     "body": ["v-empty=\"$1\""],
     "description": "v-empty=\"\" (custom)"
   },
@@ -145,7 +145,7 @@
     "description": "v-empty=\"\" (custom)"
   },
   "v-resize": {
-    "prefix": "vre",
+    "prefix": "vresize",
     "body": ["v-resize=\"$1\""],
     "description": "v-resize=\"\" (custom)"
   }
