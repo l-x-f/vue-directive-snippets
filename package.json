@@ -1,37 +1,37 @@
 {
-    "name": "vue-directive-snippets",
-    "displayName": "vue-directive-snippets",
-    "description": "vue directive snippets",
-    "keywords": [
-        "vue",
-        "vue2",
-        "vue3",
-        "directive",
-        "vue-directive-snippets"
-    ],
-    "version": "0.0.3",
-    "license": "MIT",
-    "icon": "logo.png",
-    "scripts": {
-        "build": "vsce package"
-    },
-    "repository": {
-        "type": "git",
-        "url": " https://gitee.com/l-x-f/vue-directive-snippets.git"
-    },
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "vue-html",
-                "path": "./snippets/snippets.code-snippets"
-            }
-        ]
-    },
-    "publisher": "lixiaofei0627"
+  "name": "vue-directive-snippets",
+  "displayName": "vue-directive-snippets",
+  "description": "vue directive snippets",
+  "keywords": [
+    "vue",
+    "vue2",
+    "vue3",
+    "directive",
+    "vue-directive-snippets"
+  ],
+  "version": "0.0.4",
+  "license": "MIT",
+  "icon": "logo.png",
+  "scripts": {
+    "build": "vsce package"
+  },
+  "repository": {
+    "type": "git",
+    "url": " https://gitee.com/l-x-f/vue-directive-snippets.git"
+  },
+  "engines": {
+    "vscode": "^1.62.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "vue-html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "publisher": "lixiaofei0627"
 }

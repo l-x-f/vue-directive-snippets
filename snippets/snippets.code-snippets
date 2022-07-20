@@ -21,8 +21,8 @@
   },
   "v-else": {
     "prefix": "ve",
-    "body": ["v-else=\"$1\""],
-    "description": "v-else=\"\" (official)"
+    "body": ["v-else$1"],
+    "description": "v-else (official)"
   },
   "v-else-if": {
     "prefix": "vei",

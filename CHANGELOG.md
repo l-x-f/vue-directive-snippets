@@ -1,5 +1,9 @@
 # 各版本更新说明
 
+## [0.0.4]
+
+fix: v-else='' -> v-else
+
 ## [0.0.3]
 
 fix:修改指令
@@ -9,7 +13,7 @@ fix:修改指令
   vh: 'v-html= '
   vsh: 'v-show= '
   vi: 'v-if= '
-  ve: 'v-else= '
+  ve: 'v-else'
   vei: 'v-else-if= '
   vf: 'v-for="item in list$1"  :key="item.id"'
   vo: 'v-on= '

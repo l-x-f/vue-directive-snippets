@@ -2,6 +2,8 @@
 
 vue 指令提示(支持 vue2/vue3)
 
+**有新的指令需求 👉**[欢迎 issues](https://gitee.com/l-x-f/vue-directive-snippets/issues)
+
 ## 功能
 
 ### 官方指令
@@ -43,20 +45,6 @@ vue 指令提示(支持 vue2/vue3)
   vbadge: 'v-badge= '
   vresize: 'v-resize= '
 ```
-
-## 版本说明
-
-### [0.0.3]
-
-fix:修改指令
-
-### 0.0.2
-
-修改文档
-
-### 0.0.1
-
-添加初始指令支持
 
 ## [xiaofei](https://www.lixiaofei.site/)
 
